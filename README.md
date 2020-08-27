@@ -1,3 +1,3 @@
 # TODO
 
-![python tests](https://github.com/artemy/discrete-math/workflows/Python%20application/badge.svg)
+![python tests](https://github.com/artemy/discrete-math/workflows/python%20tests/badge.svg)
